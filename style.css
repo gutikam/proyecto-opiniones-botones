@@ -1,0 +1,15 @@
+main {
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 200px;
+    font-size: 25px;
+}
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
